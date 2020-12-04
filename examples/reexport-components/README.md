@@ -239,7 +239,7 @@ chunk (runtime: main) pages_Login_js.output.js 504 bytes [rendered]
     [exports: default]
     context element ./Login ./pages/ lazy ^\.\/.*$ namespace object ./Login
     context element ./Login.js ./pages/ lazy ^\.\/.*$ namespace object ./Login.js
-webpack 5.8.0 compiled successfully
+webpack 5.10.0 compiled successfully
 ```
 
 ## Production mode
@@ -271,5 +271,5 @@ chunk (runtime: main) pages_Login_js.output.js 504 bytes [rendered]
     [exports: default]
     context element ./Login ./pages/ lazy ^\.\/.*$ namespace object ./Login
     context element ./Login.js ./pages/ lazy ^\.\/.*$ namespace object ./Login.js
-webpack 5.8.0 compiled successfully
+webpack 5.10.0 compiled successfully
 ```
